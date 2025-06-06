@@ -1,3 +1,3 @@
 module.exports = function(parent, plugin) {
-    return require('./cubg.js');
+  return require('./cubg.js');
 };

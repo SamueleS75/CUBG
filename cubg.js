@@ -1,4 +1,4 @@
-module.exports = {
+exports.cubg = {
   server_startup: function(parent) {
     console.log("[CUBG] Plugin caricato con successo");
 
