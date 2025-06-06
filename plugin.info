@@ -1,0 +1,6 @@
+{
+  "name": "ConnectedUsersByGroup",
+  "version": "1.0.0",
+  "author": "Samuele Stefani",
+  "description": "Plugin per visualizzare utenti connessi per gruppo"
+}

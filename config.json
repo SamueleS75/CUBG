@@ -1,0 +1,18 @@
+{
+  "name": "ConnectedUsersByGroup",
+  "shortName": "cubg",
+  "version": "1.0.0",
+  "author": "Samuele Stefani",
+  "description": "Visualizza gli utenti connessi divisi per gruppo",
+  "hasAdminPanel": true,
+  "homepage": "https://github.com/SamueleS75/CUBG",
+  "changelogUrl": "https://raw.githubusercontent.com/SamueleS75/CUBG/main/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/SamueleS75/CUBG/main/config.json",
+  "downloadUrl": "https://github.com/SamueleS75/CUBG/archive/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamueleS75/CUBG.git"
+  },
+  "versionHistoryUrl": "https://api.github.com/repos/SamueleS75/CUBG/tags",
+  "meshCentralCompat": ">=1.1.45"
+}
