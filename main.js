@@ -1,3 +1,3 @@
-module.exports = function(parent) {
-    require('./server.js')(parent);
+module.exports = function(parent, plugin) {
+    return require('./cubg.js');
 };
